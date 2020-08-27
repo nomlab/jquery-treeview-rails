@@ -1,6 +1,6 @@
 Add jquery-treeview (http://bassistance.de/jquery-plugins/jquery-plugin-treeview/) to your rails app.
 
-Requires Rails 3.1.
+Requires Rails 4
 
 To install:
 
@@ -9,3 +9,6 @@ To install:
 
 2. Add to your application.js file:
   //= require jquery_treeview
+
+3. Add to your application.css file:
+  *= require jquery.treeview
